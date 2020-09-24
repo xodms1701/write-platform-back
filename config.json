@@ -1,0 +1,10 @@
+{
+  "db": {
+    "dbschema": "postype_clone",
+    "host": "127.0.0.1",
+    "username": "root",
+    "password": "1234",
+    "dialect": "mariadb"
+  },
+  "jwt_secret": "bohemian"
+}
